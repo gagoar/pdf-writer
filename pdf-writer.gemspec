@@ -1,9 +1,8 @@
 Gem::Specification.new do |s|
   s.name     = "eventioz-pdf-writer"
   s.version  = "1.0"
-  s.date     = "2013-7-17"
   s.summary  = "A pure Ruby PDF document creation library."
-  s.email    = ""
+  s.email    = "xeroice@gmail.com"
   s.homepage = "http://github.com/eventioz/pdf-writer/"
   s.description = "A pure Ruby PDF document creation library."
   s.has_rdoc = true
