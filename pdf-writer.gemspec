@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name              = "eventioz-pdf-writer"
-  s.version           = "1.0"
+  s.version           = "1.2.4"
   s.summary           = "A pure Ruby PDF document creation library."
   s.email             = "xeroice@gmail.com"
   s.homepage          = "http://github.com/eventioz/pdf-writer/"
@@ -23,6 +23,4 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'color', '>= 1.4.0'
   s.add_dependency 'transaction-simple', '~> 1.3'
-
-
 end
